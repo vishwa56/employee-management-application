@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "full_name": "vishwa",
+    "age": 20,
+    "date_of_birth": "23/5/2002",
+    "salary": 20000,
+    "department": "sales"
+  }
+]
